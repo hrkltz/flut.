@@ -12,6 +12,7 @@ import 'package:video_player/video_player.dart';
 Future<void> main() async {
   runApp(
     WidgetsApp(
+      debugShowCheckedModeBanner: false,
       color: const Color(0xFFFFFFFF,),
       builder: (context, child) {
         return child ?? const SizedBox.shrink();

@@ -1,6 +1,8 @@
-# flut.
+# flutDot
 
-Welcome to the **flut.** project! The goal of project is to provide easy to use examples for utilizing hardware device and common software solutions with Flutter. Each example is kept as simple as possible to help you understanding it quickly. Some of these projects might also be available in the corresponding application stores like Apple App Store, Google Play Store, and the Microsoft Store.
+Welcome to the **flutDot** project! This project aims to provide simple, easy-to-follow examples for leveraging hardware devices and common software solutions using Flutter. Each example is designed as an own application and to be as straightforward as possible, helping you grasp the concepts quickly and effectively.
+
+Some of these applications may also be available on popular app platforms, including the Apple App Store, Google Play Store, and Microsoft Store.
 
 ## Hardware
 
@@ -19,5 +21,5 @@ Welcome to the **flut.** project! The goal of project is to provide easy to use 
 | Project         | Android | iOS | Linux | MacOs | Web | Windows |
 |-----------------|---------|-----|-------|-------|-----|---------|
 | flut.Web        | ..      | ..  | ..    | ..    | ..  | ..      |
-| flut.Widget     | ..      | ..  | ..    | ..    | ..  | ..      |
+| flut.WidgetsApp | ..      | ..  | ..    | ..    | ..  | ..      |
 | flut.Web        | ..      | ..  | ..    | ..    | ..  | ..      |

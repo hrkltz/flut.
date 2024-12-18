@@ -30,7 +30,7 @@ Future<void> main() async {
               padding: const EdgeInsets.fromLTRB(10.0, 64.0, 10.0, 64.0,),
               child: Column(
               children: <Widget>[
-                FlutDotTextField(title: 'flut.Camera', text: 'Welcome to the demonstration app on how to access the camera with Flutter! Source code can be found on:\nhttps://github.com/hrkltz/flut.',),
+                FlutDotTextField(title: 'flut.Camera', text: 'Welcome to the flut.Camera app, a part of the flutDot project! The flutDot project aims to provide simple, easy-to-follow examples for leveraging hardware devices and common software solutions using Flutter. Each example is designed to be as straightforward as possible, helping you grasp the concepts quickly and effectively.\n\nSource code: https://github.com/hrkltz/flutDot',),
                 const SizedBox(height: 20.0,),
                 FlutDotButton(text: 'A: Open The Camera', onTapped: () => Navigator.of(context).push(routeBuilder(view: const AView(),),),),
                 const SizedBox(height: 20.0,),

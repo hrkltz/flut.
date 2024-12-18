@@ -3,9 +3,9 @@ import 'dart:io';
 
 import 'package:flutter/widgets.dart';
 
-import 'package:flut_camera/view/a_view.dart';
-import 'package:flut_camera/view/b_view.dart';
-import 'package:flut_camera/view/c_view.dart';
+import 'package:flutdot_camera/view/a_view.dart';
+import 'package:flutdot_camera/view/b_view.dart';
+import 'package:flutdot_camera/view/c_view.dart';
 import 'package:video_player/video_player.dart';
 
 

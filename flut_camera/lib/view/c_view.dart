@@ -1,7 +1,7 @@
 import 'package:camera/camera.dart';
 import 'package:flutter/widgets.dart';
 
-import 'package:flut_camera/main.dart';
+import 'package:flutdot_camera/main.dart';
 
 
 class CView extends StatefulWidget {

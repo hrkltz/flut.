@@ -1,4 +1,4 @@
-package com.example.flut_camera
+package io.hrkltz.flutdot.camera
 
 import io.flutter.embedding.android.FlutterActivity
 

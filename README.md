@@ -23,3 +23,12 @@ Some of these applications may also be available on popular app platforms, inclu
 | flut.Web        | ..      | ..  | ..    | ..    | ..  | ..      |
 | flut.WidgetsApp | ..      | ..  | ..    | ..    | ..  | ..      |
 | flut.Web        | ..      | ..  | ..    | ..    | ..  | ..      |
+
+## Deploy
+
+### Android
+
+See the following links for how to upload your project to the Android store:
+
+https://docs.flutter.dev/deployment/android 
+https://developer.android.com/studio/publish/app-signing#generate-key

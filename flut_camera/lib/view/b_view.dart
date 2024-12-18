@@ -3,7 +3,7 @@ import 'dart:io';
 import 'package:camera/camera.dart';
 import 'package:flutter/widgets.dart';
 
-import 'package:flut_camera/main.dart';
+import 'package:flutdot_camera/main.dart';
 
 
 class BView extends StatefulWidget {
